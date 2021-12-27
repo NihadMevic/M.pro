@@ -1,0 +1,478 @@
+﻿{
+  "version": "2.22.3",
+  "time": 1613471591,
+  "blocks": [
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "We Do One Thing, & One Thing Well",
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "(MembersPRO is <font color=\"red\"><u>not an all-in-one platform</u></font>, and we don't try to be)",
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "Most all-in-one platforms have a ton of things to offer, however, they often lack quality in any one place.",
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 2,
+        "text": "<b>At MembersPRO we take the opposite approach.</b> We are focused on your membership fulfillment and helping you deliver your paid products better. Our system is the perfect membership hub that you can plug directly into your sales funnel or email marketing system so that you can give your customers the best of all worlds!",
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "Your Customer's Experience Comes First",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "We know there’s nothing worse than having a poor user experience. That’s why we’ve built MembersPRO with your customers in mind <b>first</b>.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "From the moment they log in for the first time to the moment they’re ready to take your next course, they’ll have a smooth, joyful experience!",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "Customer comes first",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Home/Customer_Comes_first-1911672.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "1-Click Migration",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "MembersPRO provides you with an easy-to-use Chrome extension that allows you to transfer your existing content from Clickfunnels, Thinkific, Kajabi or Teachable with a click of a button.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "We’ll also offer a complimentary migration from your old platform to MembersPRO if you buy one of our <a href=\"https://memberspro.com/plans\" target=\"_blank\">yearly plans</a>.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "Move From:",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "1-Click Migration",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Home/1-Click-Migration-logos-1910734.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "1 Login, Unlimited Courses",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "Forget the days where your customer has to remember unique login details for each course. Now they can access all your courses with 1 login and 1 link.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 3,
+        "text": "Beyond simplicity… Why is that such a big deal?",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "Well… for your customer, this means that they can easily buy new offers from you... either directly in your courses or in your funnels elsewhere and upon refresh; have instant access to what they just bought.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "For you as a course creator, you can now create new content like a boss! Easily copy content from other courses with just one click, whether it be new courses, new modules with dozens of lessons attached or single lessons. We’ve got you, and we’ve made content creation dead simple.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "1 Login - Unlimited Courses",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Home/1-login-Unlimited-Courses-1910735.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "Release On Time",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 3,
+        "text": "Is your content running on evergreen?",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "Our drip delay and drip expiry feature allows your content to release for your members at the right moment while still giving you the ability to remove their access at any time.*",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 3,
+        "text": "Is your content running live?",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "Our date delay and date expiry feature allows your content to go live on specific dates and then expire a set amount of days after it’s release.*",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 4,
+        "text": "Live date release and expiry is perfect if you run live challenges!",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "*Lesson expiry is totally optional, and you can even choose if you want it to expire for all of your customers or just the people getting your content for free.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "Release On Time",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Home/Release-On-Time-1910728.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "Follow-Up Properly",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "Our email follow-up system allows you to automatically email your members as soon as they complete a lesson in any of your courses.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "The emails are course-specific and trigger from certain lessons that are marked as complete by your members.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "You can also send out bulk broadcast emails to your members who have met certain lesson completion requirements.",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "Follow-Up Properly",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Home/Follow-up-properly-1910739.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "Easy Member Management",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "list",
+      "data": {
+        "style": "unordered",
+        "alignment": "left",
+        "items": [
+          "Simply search for your member’s email address and add/ remove course access with a quick check of a box",
+          "Send them a password reset email on their request",
+          "Track their course progress and interaction"
+        ]
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "Easy-Member-Management",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Home/Easy-Member-Management-1910738.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "Integrations",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "We integrate with ClickFunnels, ActiveCampaign, ConvertKit, Infusionsoft + Keap, Quick Convert, Simvoly, ThriveCart & 1,000’s of other apps via Zapier",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "Simply follow our step-by-step <a href=\"https://docs.memberspro.com/collections/204615-integrations\" target=\"_blank\">tutorial guides</a> to learn how our webhook integrations work with each platform!",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "Integration",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Home/Integration-logo-1910741.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "New Integration",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Images/new_integrations-2518593.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "image",
+      "data": {
+        "caption": "Integration2",
+        "stretched": false,
+        "withBackground": false,
+        "withBorder": false,
+        "file": {
+          "url": "https://content.app-sources.com/s/90978964760459913/uploads/Home/Integrations2-1912298.png"
+        }
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "header",
+      "data": {
+        "level": 1,
+        "text": "Thoughts From Our Users",
+        "alignment": "left"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "embed",
+      "data": {
+        "caption": "Steve J Larsen - Case Study",
+        "embed": "https://screencast-o-matic.com/embed?sc=cY6vclsAN4",
+        "source": "https://screencast-o-matic.com/watch/cY6vclsAN4",
+        "service": "screencast-o-matic",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "quote",
+      "data": {
+        "caption": "Steve J Larsen",
+        "text": "It's like a members area that allows me to increase my average cart value",
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "paragraph",
+      "data": {
+        "text": "<a href=\"https://stevejlarsen.com/\" target=\"_blank\">Check out Steve's membership here</a>",
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "embed",
+      "data": {
+        "caption": "Marley Jaxx - Case Study",
+        "embed": "https://screencast-o-matic.com/embed?sc=cYX1VIMXNk",
+        "source": "https://screencast-o-matic.com/watch/cYX1VIMXNk",
+        "service": "screencast-o-matic",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "quote",
+      "data": {
+        "caption": "Marley Jaxx",
+        "text": "I look at our members area now, and I get excited to dive in and start learning",
+        "alignment": "center"
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "embed",
+      "data": {
+        "caption": "Josh Forti - Case Study",
+        "embed": "https://screencast-o-matic.com/embed?sc=cYXO1PL7wJ",
+        "source": "https://screencast-o-matic.com/watch/cYXO1PL7wJ",
+        "service": "screencast-o-matic",
+        "width": 1280,
+        "height": 720
+      }
+    },
+    {
+      "id": "123456abcdef",
+      "type": "quote",
+      "data": {
+        "caption": "Josh Forti",
+        "text": "We moved 15-20 programs over and I was afraid of the hassle... but we were completely taken care of",
+        "alignment": "center"
+      }
+    }
+  ]
+}
